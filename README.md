@@ -40,6 +40,6 @@ The file gene_context.txt contains the edges of the gene-context network, the fo
 ```
 NDUFV2   SURF1   1
 SURF1    NDUFV2  1
-PRKDC	   VCAM1   1
+PRKDC    VCAM1   1
 VCAM1    PRKDC   1
 ```
