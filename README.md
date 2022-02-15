@@ -4,7 +4,7 @@
 
 This is the SCRL toolkit developed for learning meaningful representations for scRNA-seq data by integrating multiple source of network information, which also helps overcoming the high noise of scRNA-seq data. Please ensure that the GSL package (http://www.gnu.org/software/gsl/) is installed on your Linux.
 ```
-Xiangyu Li (lixiangyu13@mails.tsinghua.edu.cn) or Weizheng Chen (cwz.pku@gmail.com) 
+Xiangyu Li (lixiangyu13@mails.tsinghua.edu.cn) 
 ```
 
 ##Usage
